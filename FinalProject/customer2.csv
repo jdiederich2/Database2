@@ -1,0 +1,12 @@
+CustID,CustFname,CustLname,CustAddr,CustCity,CustState,CustZip
+0001,Jennifer,Diederich,"309 Washington St",Stanley,WI,54768
+0002,Marge,Feigum,"15 Bittersweet Way",Englewood,WI,54766
+0003,Thom,Manion,"88 Ridgeway Ct",Chilton,WI,54744
+0004,Alexandra,Gee,"1212 Main St",Wales,WI,54745
+0005,Christine,Flowers,"841 Ribbon Dr",Heartland,WI,55212
+0009,"Anna Louise",Feigum,"15 East Main St",Baltimore,MD,45678
+0010,Bob,Cameron,"13556 Shady Pine Dr",Plattville,WI,70098
+0011,Tamara,Gee,"20 Winsor Woods Dr","St. Paul",MN,67033
+0012,Bernie,Gates,"2000 Ironway Rd Apt 12","St. Paull",MN,67000
+0013,Olya,Diederich,"151 Rum River Rd",Planter,WI,52588
+0014,Heather,Wilkes,"1010 Milam St",Houston,TX,46450
